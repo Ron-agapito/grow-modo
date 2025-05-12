@@ -23,7 +23,7 @@ You can access a live demo of the theme using the following credentials:
 
 - **URL**: [https://growmodo.x10.mx](https://growmodo.x10.mx)
 - **Username**: `admin`
-- **Password**: `1111`
+- **Password**: `admin`
 
 ## How to Add a Page
 
